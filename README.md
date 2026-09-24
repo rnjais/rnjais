@@ -14,7 +14,7 @@
 
 ## About Me
 
-Java backend engineer focused on building scalable, maintainable, and production-ready software systems. I enjoy designing REST APIs, working with relational databases, and creating clean backend solutions that solve real business problems with efficiency and reliability.
+Java backend engineer focused on building scalable, maintainable, and production-ready software. I enjoy designing REST APIs, working with relational databases, and creating clean backend systems that solve real-world problems efficiently.
 
 ## Core Skills
 
@@ -50,7 +50,7 @@ Java backend engineer focused on building scalable, maintainable, and production
 
 ## Connect
 
-<p align="center">If you're working on backend engineering, Java systems, or scalable product platforms, I’d be glad to connect.</p>
+<p align="center">If you're working on backend engineering, Java systems, or scalable product platforms, I'd be glad to connect.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Jaiswal-171717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
