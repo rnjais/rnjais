@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,40:1f2933,75:374151,100:10b981&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=62&descSize=18" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,40:2b2b2b,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=62&descSize=18" width="100%" alt="Aryan Jaiswal banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=6EE7B7&center=true&vCenter=true&width=820&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Engineering+practical+solutions+with+clarity" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=820&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Engineering+practical+solutions+with+clarity" alt="Typing introduction" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/rnjais"><img src="https://komarev.com/ghpvc/?username=rnjais&label=PROFILE+VIEWS&color=059669&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/rnjais?tab=followers"><img src="https://img.shields.io/github/followers/rnjais?label=FOLLOWERS&style=for-the-badge&color=374151" alt="GitHub followers" /></a>
-  <a href="https://github.com/rnjais?tab=repositories"><img src="https://img.shields.io/github/stars/rnjais?label=STARS&style=for-the-badge&color=10b981" alt="GitHub stars" /></a>
+  <a href="https://github.com/rnjais"><img src="https://komarev.com/ghpvc/?username=rnjais&label=PROFILE+VIEWS&color=ED1D25&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/rnjais?tab=followers"><img src="https://img.shields.io/github/followers/rnjais?label=FOLLOWERS&style=for-the-badge&color=171717" alt="GitHub followers" /></a>
+  <a href="https://github.com/rnjais?tab=repositories"><img src="https://img.shields.io/github/stars/rnjais?label=STARS&style=for-the-badge&color=6DB33F" alt="GitHub stars" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-1F2937?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-2B2B2B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## Overview
@@ -42,7 +42,7 @@ I’m Aryan, a Java backend engineer focused on building clean, scalable, and re
 
 <div align="center">
   <a href="https://github.com/rnjais/contact-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjais&repo=contact-manager&theme=dark&bg_color=111111&title_color=6EE7B7&text_color=F3F4F6&icon_color=34D399&border_color=374151" alt="Contact Manager repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjais&repo=contact-manager&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25&border_color=3F3F46" alt="Contact Manager repository" />
   </a>
 </div>
 
@@ -51,16 +51,16 @@ I’m Aryan, a Java backend engineer focused on building clean, scalable, and re
 ## Engineering Dashboard
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=111111&title_color=6EE7B7&text_color=F3F4F6&icon_color=34D399&border_color=374151&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=111111&title_color=6EE7B7&text_color=F3F4F6&icon_color=34D399&border_color=374151" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25&border_color=3F3F46&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25&border_color=3F3F46" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=111111&ring=10B981&fire=34D399&currStreakLabel=6EE7B7&sideLabels=F3F4F6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&hide_border=true" alt="GitHub contribution streak" />
+  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnjais&bg_color=111111&color=F3F4F6&line=10B981&point=6EE7B7&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnjais&bg_color=171717&color=F5F5F5&line=6DB33F&point=ED1D25&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 </div>
 
 ## Current Focus
@@ -76,11 +76,11 @@ I’m Aryan, a Java backend engineer focused on building clean, scalable, and re
 <p align="center">If you're working on backend engineering, Java systems, or scalable product platforms, I’d be glad to connect.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Jaiswal-374151?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-1F2937?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Jaiswal-171717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-2B2B2B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:374151,100:111111&height=120&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D25,50:6DB33F,100:171717&height=120&section=footer" width="100%" alt="Footer banner" />
 </div>
