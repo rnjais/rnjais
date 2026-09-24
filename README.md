@@ -63,10 +63,7 @@ A backend-focused application built around clean API design, persistence, and pr
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Aryan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Top languages" />
-</div>
+
 
 <div align="center">
   <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
