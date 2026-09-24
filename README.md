@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/rnjais/contact-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjais&repo=contact-manager&theme=radical&hide_border=true" alt="Contact Manager repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjais&repo=contact-manager&theme=dark&bg_color=1a0000&title_color=d90429&text_color=ffccd5&icon_color=ff4d6d&border_color=5c0000" alt="Contact Manager repository" />
   </a>
 </div>
 
@@ -74,12 +74,12 @@ Java & OOP  ──▶  Spring Boot  ──▶  REST APIs  ──▶  Security  �
 ## 📊 Engineering Dashboard
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=1a0000&title_color=d90429&text_color=ffccd5&icon_color=ff4d6d&border_color=5c0000&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=1a0000&title_color=d90429&text_color=ffccd5&icon_color=ff4d6d&border_color=5c0000" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=1a0000&ring=d90429&fire=ff4d6d&currStreakLabel=d90429&sideLabels=ffccd5&currStreakNum=ffffff&sideNums=ffffff&dates=ffccd5&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
