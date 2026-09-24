@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=820&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Engineering+practical+solutions+with+clarity" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=6DB33F&center=true&vCenter=true&width=820&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%7C+Hibernate;Building+scalable+and+reliable+systems" alt="Typing intro" />
 </div>
 
 <p align="center">
@@ -18,25 +18,73 @@
   <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## Overview
+## Professional Summary
 
-I’m Aryan, a Java backend engineer focused on building clean, scalable, and reliable software systems. I enjoy turning practical business problems into efficient backend solutions with strong architecture and maintainable code.
+Java backend engineer with a strong focus on building scalable, maintainable, and production-ready software systems. I enjoy designing REST APIs, working with relational databases, and creating clean backend solutions that solve real business problems with efficiency and reliability.
 
-## What I Work With
+## Core Skills
+
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- PostgreSQL
+- SQL
+- JPA / Hibernate
+- Git & GitHub
+- Maven
+- Postman
+- Backend architecture
+- DSA and problem solving
+- Debugging and troubleshooting
+
+## Skills
+
+### Backend & Java
+- Java
+- Spring Boot
+- Spring MVC
+- RESTful web services
+- Clean code practices
+- Backend architecture
+
+### Database & Persistence
+- MySQL
+- PostgreSQL
+- SQL query design
+- JPA
+- Hibernate
+- Database design
+
+### Tools & Workflow
+- Git
+- GitHub
+- Maven
+- Postman
+- IntelliJ IDEA
+- Linux basics
+
+### Problem Solving
+- Data structures and algorithms
+- Logic building
+- Optimization
+- Debugging
+- System thinking
+
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,git,github,postman,idea&perline=10" alt="Technology stack" />
 </div>
 
-## Core Strengths
+## Highlights
 
-| Area | Capability |
-| --- | --- |
-| Backend Development | Java, Spring Boot, REST APIs |
-| Database Design | SQL, MySQL, JPA, Hibernate |
-| System Thinking | Clean architecture and maintainability |
-| Problem Solving | DSA, logic design, optimization |
-| Engineering Mindset | Build with clarity and consistency |
+- Strong foundation in Java backend development
+- Experience building REST APIs and backend services
+- Comfortable with SQL databases and persistence layers
+- Focused on clean architecture and maintainability
+- Good understanding of real-world software engineering principles
+- Strong problem-solving mindset with DSA and logic-based practice
 
 ## Featured Project
 
@@ -46,30 +94,23 @@ I’m Aryan, a Java backend engineer focused on building clean, scalable, and re
   </a>
 </div>
 
-<p align="center"><b>Contact Manager</b><br />A backend-focused solution emphasizing clean API design, persistence, and practical application structure.</p>
-
-## Engineering Dashboard
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25&border_color=3F3F46&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25&border_color=3F3F46" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnjais&bg_color=171717&color=F5F5F5&line=6DB33F&point=ED1D25&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
-</div>
+<p align="center"><b>Contact Manager</b><br />A backend-focused application emphasizing clean API design, persistence, and practical application structure.</p>
 
 ## Current Focus
 
 - Building production-ready backend systems
-- Deepening Spring Security and architecture fundamentals
-- Strengthening DSA and logical problem solving
-- Contributing to meaningful engineering work
-- Growing with disciplined execution and continuous learning
+- Strengthening Spring Boot and REST API development
+- Improving backend architecture and maintainability
+- Solving DSA and logical problem statements consistently
+- Contributing to impactful engineering work
+
+## Career Profile
+
+I am a backend-focused developer building reliable software with a strong emphasis on structure, quality, and practical usability. I enjoy turning requirements into efficient, maintainable backend solutions and continuously improving my engineering skills.
+
+## Open to Opportunities
+
+I am interested in backend engineering roles where I can contribute to meaningful product development, build scalable systems, and keep learning in a quality-focused engineering environment.
 
 ## Connect
 
