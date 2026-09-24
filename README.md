@@ -7,20 +7,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/rnjais"><img src="https://komarev.com/ghpvc/?username=rnjais&label=PROFILE+VIEWS&color=ED1D25&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/rnjais?tab=followers"><img src="https://img.shields.io/github/followers/rnjais?label=FOLLOWERS&style=for-the-badge&color=171717" alt="GitHub followers" /></a>
-  <a href="https://github.com/rnjais?tab=repositories"><img src="https://img.shields.io/github/stars/rnjais?label=STARS&style=for-the-badge&color=6DB33F" alt="GitHub stars" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-2B2B2B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## Professional Summary
+## About Me
 
-Java backend engineer with a strong focus on building scalable, maintainable, and production-ready software systems. I enjoy designing REST APIs, working with relational databases, and creating clean backend solutions that solve real business problems with efficiency and reliability.
+Java backend engineer focused on building scalable, maintainable, and production-ready software systems. I enjoy designing REST APIs, working with relational databases, and creating clean backend solutions that solve real business problems with efficiency and reliability.
 
 ## Core Skills
 
@@ -34,57 +28,15 @@ Java backend engineer with a strong focus on building scalable, maintainable, an
 - Git & GitHub
 - Maven
 - Postman
-- Backend architecture
-- DSA and problem solving
-- Debugging and troubleshooting
-
-## Skills
-
-### Backend & Java
-- Java
-- Spring Boot
-- Spring MVC
-- RESTful web services
-- Clean code practices
-- Backend architecture
-
-### Database & Persistence
-- MySQL
-- PostgreSQL
-- SQL query design
-- JPA
-- Hibernate
-- Database design
-
-### Tools & Workflow
-- Git
-- GitHub
-- Maven
-- Postman
-- IntelliJ IDEA
-- Linux basics
-
-### Problem Solving
-- Data structures and algorithms
-- Logic building
-- Optimization
-- Debugging
-- System thinking
+- Backend Architecture
+- Problem Solving / DSA
+- Debugging & Troubleshooting
 
 ## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,git,github,postman,idea&perline=10" alt="Technology stack" />
 </div>
-
-## Highlights
-
-- Strong foundation in Java backend development
-- Experience building REST APIs and backend services
-- Comfortable with SQL databases and persistence layers
-- Focused on clean architecture and maintainability
-- Good understanding of real-world software engineering principles
-- Strong problem-solving mindset with DSA and logic-based practice
 
 ## Featured Project
 
@@ -95,22 +47,6 @@ Java backend engineer with a strong focus on building scalable, maintainable, an
 </div>
 
 <p align="center"><b>Contact Manager</b><br />A backend-focused application emphasizing clean API design, persistence, and practical application structure.</p>
-
-## Current Focus
-
-- Building production-ready backend systems
-- Strengthening Spring Boot and REST API development
-- Improving backend architecture and maintainability
-- Solving DSA and logical problem statements consistently
-- Contributing to impactful engineering work
-
-## Career Profile
-
-I am a backend-focused developer building reliable software with a strong emphasis on structure, quality, and practical usability. I enjoy turning requirements into efficient, maintainable backend solutions and continuously improving my engineering skills.
-
-## Open to Opportunities
-
-I am interested in backend engineering roles where I can contribute to meaningful product development, build scalable systems, and keep learning in a quality-focused engineering environment.
 
 ## Connect
 
