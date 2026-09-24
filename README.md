@@ -1,21 +1,16 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=62&descSize=18" width="100%" alt="Aryan Jaiswal banner" />
+</div>
 
-# 👋 Welcome to Aryan Jaiswal's GitHub
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+clean+and+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
+</div>
 
-### Java Backend Engineer · Spring Boot · REST APIs · SQL
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+clean+and+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
-
-<a href="https://github.com/rnjais"><img src="https://komarev.com/ghpvc/?username=rnjais&label=PROFILE+VIEWS&color=ED1D25&style=for-the-badge" alt="Profile views" /></a>
-<a href="https://github.com/rnjais?tab=followers"><img src="https://img.shields.io/github/followers/rnjais?label=FOLLOWERS&style=for-the-badge&color=171717" alt="GitHub followers" /></a>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/aryan-jaiswal-8210832ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/aryan_553/"><img src="https://img.shields.io/badge/LeetCode-aryan__553-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-</div>
 
 ## About Me
 
