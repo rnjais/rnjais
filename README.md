@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlign=15&fontAlignY=30&desc=Aryan%20Jaiswal&descSize=55&descColor=F5F5F5&descAlign=50&descAlignY=55" width="100%" alt="Aryan Jaiswal banner" />
 </div>
 
 <div align="center">
