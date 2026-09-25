@@ -1,5 +1,15 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%0AAryan%20Jaiswal&fontSize=45&fontColor=F5F5F5&animation=fadeIn&fontAlign=8&fontAlignY=30" width="100%" alt="Hi, I'm Aryan Jaiswal banner" />
+<div align="center" style="position: relative;">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&animation=fadeIn" width="100%" alt="Aryan Jaiswal banner" />
+
+  <h2 style="position: absolute; top: 35px; left: 50px; color: #F5F5F5;">
+    Hi 👋, I'm
+  </h2>
+
+  <h1 style="position: absolute; top: 70px; left: 50px; color: #F5F5F5;">
+    Aryan Jaiswal
+  </h1>
+
 </div>
 
 <div align="center">
