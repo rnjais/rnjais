@@ -14,7 +14,14 @@
 
 ## About Me
 
-I’m a Java backend engineer focused on building scalable, maintainable, and reliable software. I enjoy designing REST APIs, working with relational databases, and turning practical requirements into clean backend solutions. I’m continuously improving my skills in Spring Boot, system design, and problem solving.
+I'm a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and solving problems using Data Structures and Algorithms.
+
+## 🚀 Currently Working On
+🔭 Building Contact Manager using Java & Spring Boot
+🌱 Improving my skills in Spring Boot, Spring Security, REST APIs, JPA/Hibernate & DSA
+💻 Practicing Data Structures and Algorithms in Java
+📚 Learning advanced backend development and system design concepts
+
 
 ## Tech Stack
 
