@@ -1,7 +1,9 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Aryan%20Jaiswal&fontSize=50&fontColor=F5F5F5&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%" alt="Hi, I'm Aryan Jaiswal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+clean+and+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
 </div>
 
 <p align="center">
@@ -12,14 +14,7 @@
 
 ## About Me
 
-I'm a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and solving problems using Data Structures and Algorithms.
-
-## 🚀 Currently Working On
-🔭 Building Contact Manager using Java & Spring Boot<br>
-🌱 Improving my skills in Spring Boot, Spring Security, REST APIs, JPA/Hibernate & DSA<br>
-💻 Practicing Data Structures and Algorithms in Java<br>
-📚 Learning advanced backend development and system design concepts<br>
-
+I’m a Java backend engineer focused on building scalable, maintainable, and reliable software. I enjoy designing REST APIs, working with relational databases, and turning practical requirements into clean backend solutions. I’m continuously improving my skills in Spring Boot, system design, and problem solving.
 
 ## Tech Stack
 
