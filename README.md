@@ -14,7 +14,17 @@
 
 ## About Me
 
-I’m a Java backend engineer focused on building scalable, maintainable, and reliable software. I enjoy designing REST APIs, working with relational databases, and turning practical requirements into clean backend solutions. I’m continuously improving my skills in Spring Boot, system design, and problem solving.
+I'm a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and solving problems using Data Structures and Algorithms.
+
+##  🚀 Currently Working On
+
+* 🔭 Developing **Java Backend projects** using **Spring Boot, REST APIs & JPA/Hibernate**
+* 🔐 Strengthening expertise in **Spring Security, JWT, MySQL & backend development**
+* 🧩 Practicing **Data Structures & Algorithms in Java** to enhance problem-solving skills
+* 🏗️ Learning **scalable backend architecture, API design & system design**
+* 🧪 Improving code quality through **JUnit, Mockito & effective testing practices**
+
+
 
 ## Tech Stack
 
@@ -72,18 +82,6 @@ A backend-focused application built around clean API design, persistence, and pr
   <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## Customize This README
-
-You can personalize this profile by updating the following sections:
-
-1. **Profile links:** Replace the LinkedIn, LeetCode, and GitHub URLs with your current links.
-2. **About Me:** Rewrite the summary to reflect your current role, experience, and goals.
-3. **Tech Stack:** Add or remove badges using [Shields.io](https://shields.io/) and update their labels, logos, and colors.
-4. **Projects:** Duplicate a project block and replace the repository link, description, and technology tags.
-5. **GitHub cards:** Replace `rnjais` in the stats URLs with your GitHub username if you reuse this template.
-6. **Stats settings:** Adjust `theme`, `show_icons`, `count_private`, `langs_count`, and `hide_border` to change the cards.
-7. **Header animation:** Edit the typing-banner text or remove it if you prefer a static header.
-8. **Colors:** Keep the existing dark, green, and red palette or replace the color values to match your personal brand.
 
 ## Connect
 
