@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Aryan%20Jaiswal&fontSize=45&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Hi, I'm Aryan Jaiswal banner" />
-</div>
+<h2 align="center">Hi 👋, I'm Aryan Jaiswal</h2>
+<p align="center">Java Backend Developer | Spring Boot | REST APIs | SQL | DSA</p>
+
 
 
 <div align="center">
