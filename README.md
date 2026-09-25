@@ -17,10 +17,10 @@
 I'm a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and solving problems using Data Structures and Algorithms.
 
 ## 🚀 Currently Working On
-🔭 Building Contact Manager using Java & Spring Boot
-🌱 Improving my skills in Spring Boot, Spring Security, REST APIs, JPA/Hibernate & DSA
-💻 Practicing Data Structures and Algorithms in Java
-📚 Learning advanced backend development and system design concepts
+🔭 Building Contact Manager using Java & Spring Boot<br>
+🌱 Improving my skills in Spring Boot, Spring Security, REST APIs, JPA/Hibernate & DSA<br>
+💻 Practicing Data Structures and Algorithms in Java<br>
+📚 Learning advanced backend development and system design concepts<br>
 
 
 ## Tech Stack
