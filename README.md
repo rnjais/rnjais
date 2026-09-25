@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Aryan%20Jaiswal&fontSize=45&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Hi, I'm Aryan Jaiswal banner" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+clean+and+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
