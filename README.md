@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20ENGINEER&descAlignY=62&descSize=18" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
 </div>
 
 <div align="center">
@@ -63,13 +63,27 @@ A backend-focused application built around clean API design, persistence, and pr
 
 ## GitHub Stats
 
-
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Aryan's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Top languages" />
+</div>
 
 <div align="center">
   <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
+## Customize This README
 
+You can personalize this profile by updating the following sections:
+
+1. **Profile links:** Replace the LinkedIn, LeetCode, and GitHub URLs with your current links.
+2. **About Me:** Rewrite the summary to reflect your current role, experience, and goals.
+3. **Tech Stack:** Add or remove badges using [Shields.io](https://shields.io/) and update their labels, logos, and colors.
+4. **Projects:** Duplicate a project block and replace the repository link, description, and technology tags.
+5. **GitHub cards:** Replace `rnjais` in the stats URLs with your GitHub username if you reuse this template.
+6. **Stats settings:** Adjust `theme`, `show_icons`, `count_private`, `langs_count`, and `hide_border` to change the cards.
+7. **Header animation:** Edit the typing-banner text or remove it if you prefer a static header.
+8. **Colors:** Keep the existing dark, green, and red palette or replace the color values to match your personal brand.
 
 ## Connect
 
