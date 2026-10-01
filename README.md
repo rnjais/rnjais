@@ -72,12 +72,16 @@ A backend-focused application built around clean API design, persistence, and pr
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Aryan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=171717&title_color=6DB33F&text_color=F5F5F5&icon_color=ED1D25" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rnjais&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjais&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rnjais&theme=dark" alt="GitHub profile summary" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=rnjais&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Contribution streak" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnjais&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution activity graph" />
 </div>
 
 ## Connect
