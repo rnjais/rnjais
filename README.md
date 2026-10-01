@@ -12,50 +12,72 @@
   <a href="https://github.com/rnjais"><img src="https://img.shields.io/badge/GitHub-rnjais-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and creating scalable backend solutions that solve real-world problems efficiently.
+I’m a **BE Information Technology student** focused on backend development with **Java and Spring Boot**.
+
+I enjoy building **REST APIs, database-driven applications, authentication systems, and clean backend architectures**. I’m currently strengthening my knowledge of backend engineering, problem solving, testing, and scalable application design.
+
+* 🎓 BE Information Technology
+* ☕ Focused on Java backend development
+* 🚀 Building projects with Spring Boot and REST APIs
+* 🗄️ Working with SQL, MySQL, PostgreSQL, JPA & Hibernate
+* 🧠 Practicing Data Structures & Algorithms in Java
+* 🧪 Learning better testing and clean-code practices
+* 🎯 Preparing for Java Backend / SDE opportunities
+
+---
 
 ## 🚀 Currently Working On
 
-- 🔭 Developing Java backend projects using Spring Boot, REST APIs, and JPA/Hibernate
-- 🔐 Strengthening expertise in Spring Security, JWT, MySQL, and backend architecture
-- 🧩 Practicing Data Structures & Algorithms in Java to improve problem-solving
-- 🏗️ Learning scalable backend design, API development, and system design
-- 🧪 Improving code quality through JUnit, Mockito, and testing best practices
+* 🔭 Developing **Java backend projects** using Spring Boot
+* 🔐 Strengthening **Spring Security & JWT authentication**
+* 🌐 Building and testing **RESTful APIs**
+* 🗄️ Improving database design and persistence with **JPA/Hibernate & SQL**
+* 🧪 Practicing **JUnit & Mockito**
+* 🧩 Solving **DSA problems in Java**
+* 🏗️ Learning backend architecture and system design fundamentals
 
-## Tech Stack
+---
+## 🛠️ Tech Stack
 
-### Languages & Backend
+### ☕ Languages & Backend
 
-![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-171717?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-171717?style=for-the-badge"/>
+</p>
 
-### Databases
+### 🗄️ Databases & Persistence
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=databricks&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
 
-### Tools & Workflow
+### 🧪 Testing & Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
-### Engineering Focus
+### 🔧 Tools & Workflow
 
-- Backend architecture and clean code
-- REST API design and integration
-- Database design and persistence
-- Data structures and algorithms
-- Debugging and troubleshooting
-- Maintainable, production-ready solutions
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
 
 ## Featured Projects
 
@@ -82,7 +104,7 @@ A backend-focused application built around clean API design, persistence, and pr
 
 
 
-## Connect
+## 🤝 Let's Connect
 
 If you’re working on Java, backend engineering, or scalable product platforms, I’d be glad to connect.
 
