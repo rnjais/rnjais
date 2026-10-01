@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlign=15&fontAlignY=30&desc=Aryan%20Jaiswal&descSize=55&descColor=F5F5F5&descAlign=50&descAlignY=55" width="100%" alt="Aryan Jaiswal banner" />
 </div>
 
 <div align="center">
@@ -80,9 +80,7 @@ A backend-focused application built around clean API design, persistence, and pr
   <img width="98%" src="https://streak-stats.demolab.com?user=rnjais&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Contribution streak" />
 </div>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnjais&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution activity graph" />
-</div>
+
 
 ## Connect
 
