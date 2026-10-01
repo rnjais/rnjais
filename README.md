@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlign=15&fontAlignY=30&desc=Aryan%20Jaiswal&descSize=55&descColor=F5F5F5&descAlign=50&descAlignY=55" width="100%" alt="Aryan Jaiswal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:111827,45:1F2937,75:6DB33F,100:ED1D25&height=260&section=header&text=ARYAN%20JAISWAL&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38" width="100%" alt="Aryan Jaiswal banner" />
 </div>
 
 <div align="center">
@@ -14,17 +14,15 @@
 
 ## About Me
 
-I'm a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and solving problems using Data Structures and Algorithms.
+I’m a BE Information Technology student focused on building backend applications using Java and Spring Boot. I enjoy developing REST APIs, working with databases, implementing authentication, and creating scalable backend solutions that solve real-world problems efficiently.
 
-##  🚀 Currently Working On
+## 🚀 Currently Working On
 
-* 🔭 Developing **Java Backend projects** using **Spring Boot, REST APIs & JPA/Hibernate**
-* 🔐 Strengthening expertise in **Spring Security, JWT, MySQL & backend development**
-* 🧩 Practicing **Data Structures & Algorithms in Java** to enhance problem-solving skills
-* 🏗️ Learning **scalable backend architecture, API design & system design**
-* 🧪 Improving code quality through **JUnit, Mockito & effective testing practices**
-
-
+- 🔭 Developing Java backend projects using Spring Boot, REST APIs, and JPA/Hibernate
+- 🔐 Strengthening expertise in Spring Security, JWT, MySQL, and backend architecture
+- 🧩 Practicing Data Structures & Algorithms in Java to improve problem-solving
+- 🏗️ Learning scalable backend design, API development, and system design
+- 🧪 Improving code quality through JUnit, Mockito, and testing best practices
 
 ## Tech Stack
 
@@ -79,9 +77,8 @@ A backend-focused application built around clean API design, persistence, and pr
 </div>
 
 <div align="center">
-  <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnjais&theme=dark&background=171717&ring=ED1D25&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A3A3A3&hide_border=true" alt="GitHub contribution streak" />
+  <img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rnjais&theme=dark" alt="GitHub profile summary" />
 </div>
-
 
 ## Connect
 
